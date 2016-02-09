@@ -1,0 +1,26 @@
+{
+  "name": "get-coffee",
+  "version": "1.0.0",
+  "description": "Sometimes Steve needs a coffee.",
+  "bin": {
+    "get-coffee": "bin/get-coffee.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamsteinert/get-coffee.git"
+  },
+  "keywords": [
+    "coffee",
+    "ascii",
+    "art"
+  ],
+  "author": "Adam Steinert",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/adamsteinert/get-coffee/issues"
+  },
+  "homepage": "https://github.com/adamsteinert/get-coffee#readme"
+}
